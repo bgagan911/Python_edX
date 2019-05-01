@@ -1,0 +1,14 @@
+{
+    "python.testing.pyTestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pyTestEnabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.testing.promptToConfigure": false,
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "python.linting.pydocstyleEnabled": false,
+    "python.dataScience.jupyterServerURI": "http://localhost:8890/?token=bc7715616e7f84530caa03efeeb91a4442b1e38c31bd17c5"
+}
